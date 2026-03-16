@@ -1,6 +1,6 @@
-# OpenRPC Specification
+# VOLKANURLRPC Specification
 
-Version 1.3.2
+Version 1.3.3
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [BCP 14](https://tools.ietf.org/html/bcp14) [RFC2119](https://tools.ietf.org/html/rfc2119) [RFC8174](https://tools.ietf.org/html/rfc8174) when, and only when, they appear in all capitals, as shown here.
 
@@ -62,7 +62,7 @@ The OpenRPC Specification does not require rewriting existing JSON-RPC APIs. It 
 
 # Definitions
 
-## OpenRPC Document
+## VOLKANURLRPC Document
 
 A document (or set of documents) that defines or describes an API. An OpenRPC document uses and conforms to the OpenRPC Specification.
 
